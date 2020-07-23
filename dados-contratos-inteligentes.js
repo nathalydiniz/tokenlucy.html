@@ -50,7 +50,7 @@ var abiContrato = [
         type: "uint256",
       },
     ],
-    name: "livro1",
+    name: "lista1",
     outputs: [
       {
         internalType: "address",
@@ -79,7 +79,7 @@ var abiContrato = [
         type: "address",
       },
     ],
-    name: "livro2",
+    name: "lista2",
     outputs: [
       {
         internalType: "address",
